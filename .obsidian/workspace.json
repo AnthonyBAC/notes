@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDO DuocUC - 3 SEMESTRE/BDO - 1.md",
+                "file": "BDO DuocUC - 3 SEMESTRE/RECORDAR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BDO - 1"
+              "title": "RECORDAR"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BDO DuocUC - 3 SEMESTRE/BDO - 1.md",
+                "file": "BDO DuocUC - 3 SEMESTRE/RECORDAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BDO - 1"
+              "title": "Backlinks for RECORDAR"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BDO DuocUC - 3 SEMESTRE/BDO - 1.md",
+                "file": "BDO DuocUC - 3 SEMESTRE/RECORDAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from BDO - 1"
+              "title": "Outgoing links from RECORDAR"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BDO DuocUC - 3 SEMESTRE/BDO - 1.md",
+                "file": "BDO DuocUC - 3 SEMESTRE/RECORDAR.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BDO - 1"
+              "title": "Outline of RECORDAR"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "a1abb76d0033dbd1",
   "lastOpenFiles": [
-    "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/TRUNC.md",
     "BDO DuocUC - 3 SEMESTRE/BDO - 1.md",
+    "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/TRUNC.md",
     "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/SUBSTR.md",
     "BDO DuocUC - 3 SEMESTRE/RECORDAR.md",
     "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos",
