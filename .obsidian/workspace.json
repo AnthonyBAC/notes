@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "bc0f0d9ec5d711c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b36f1399f172cadf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1abb76d0033dbd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BDO DuocUC - 3 SEMESTRE/BDO - 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BDO - 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb1e86379f2d8105",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b71a71eef4fa713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b08566867f4f108",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ac6af0e31856d02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a1c0e41174ccaf05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1acbb0df9bedde5",
+    "type": "split",
+    "children": [
+      {
+        "id": "326577ba515d8c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a36ac3e4e25dbcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BDO DuocUC - 3 SEMESTRE/BDO - 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for BDO - 1"
+            }
+          },
+          {
+            "id": "12017a09373ca249",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BDO DuocUC - 3 SEMESTRE/BDO - 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from BDO - 1"
+            }
+          },
+          {
+            "id": "27ba74ab288b0322",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f15a67f85528a183",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BDO DuocUC - 3 SEMESTRE/BDO - 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BDO - 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1abb76d0033dbd1",
+  "lastOpenFiles": [
+    "TheOdinProject/FoundationCourse1.md",
+    "BDO DuocUC - 3 SEMESTRE/BDO - 1.md",
+    "git.md",
+    "BDO DuocUC - 3 SEMESTRE"
+  ]
+}
