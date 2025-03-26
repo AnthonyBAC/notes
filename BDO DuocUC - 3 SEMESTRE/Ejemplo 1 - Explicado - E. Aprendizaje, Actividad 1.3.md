@@ -55,7 +55,7 @@ RIGHT JOIN COMUNA CO
 
 ---
 
-[[ON]] = Especifica la condiciona de union entre tablas, Define como deben coincidir las filas entre las dos tablas.
+[[ON]] = Especifica la condición de union entre tablas, Define como deben coincidir las filas entre las dos tablas.
 
 [[AND]] =  Agrega condiciones a la union.
 
