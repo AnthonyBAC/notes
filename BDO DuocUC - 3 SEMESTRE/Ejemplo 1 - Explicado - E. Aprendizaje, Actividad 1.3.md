@@ -110,3 +110,5 @@ ORDER BY 4 DESC;
 [ORDER BY] ordena los resultados según la [4] columna, siendo este el conteo de los clientes [COUNT(C.NRO_CLIENTE)].
 
 [DESC] ordena los resultados de manera descendente.
+
+---
