@@ -1,0 +1,1 @@
+Mantiene todas las filas de la tabla derecha, incluso si no hay coincidencias en la tabla izquierda. las columnas de la tabla a la izquierda que no tienen coincidencias se llenaran de [NULL]

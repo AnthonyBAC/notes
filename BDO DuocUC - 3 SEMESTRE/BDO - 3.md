@@ -1,0 +1,3 @@
+# Conceptos
+
+[[LEFT JOIN]] 
