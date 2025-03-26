@@ -15,7 +15,9 @@ GROUP BY RE.NOMBRE_rEGION,PR.NOMBRE_PROVINCIA
 ORDER BY 4 DESC;
 ```
 ---
-# Ejercicio Desglosado
+## Ejercicio Desglosado
+
+# 1.
 
 ```
 SELECT RE.NOMBRE_REGION
@@ -40,6 +42,7 @@ SELECT RE.NOMBRE_REGION
 [FROM CLIENTE C] = Tabla principal donde se obtendrán datos, asignándole alias C
 
 ---
+# 2.
 
 ```
 RIGHT JOIN COMUNA CO 
@@ -65,6 +68,7 @@ RIGHT JOIN COMUNA CO
 [C.COD_COMUNA = CO.COD_COMUNA] = Columna [COD_COMUNA] tabla [CLIENTE] debe coincidir con columna [COD_COMUNA] tabla [COMUNA]
 
 ---
+# 3.
 
 ```
 RIGHT JOIN REGION RE 
@@ -76,6 +80,7 @@ RIGHT JOIN REGION RE
 [ON RE.COD_REGION = CO.COD_REGION] = Union entre la columna, [COD_REGION]  tabla [REGION] y columna [COD_REGION] tabla [COMUNA].
 
 ---
+# 4.
 
 ```
 RIGHT JOIN PROVINCIA PR 
@@ -88,9 +93,10 @@ RIGHT JOIN PROVINCIA PR
 [ON PR.COD_REGION = CO.COD_REGION AND PR.COD_PROVINCIA = CO.COD_PROVINCIA] = Union entre la columna [COD_REGION Y COD_PROVINCIA] de la tabla [PROVINCIA] Y [COD_REGION Y COD_PROVINCIA] de la tabla [COMUNA]
 
 ---
+# 5.
 
 ```
-GROUP BY RE.NOMBRE_REGION, PR.NOMBRE_PROVINCIA, NOMBRE_COMUNA
+GROUP BY RE.NOMBRE_rEGION, PR.NOMBRE_PROVINCIA, NOMBRE_COMUNA
 ```
 
 Este agrupa los resultados, por [REGION], [PROVINCIA] y [COMUNA] 
@@ -98,6 +104,7 @@ Este agrupa los resultados, por [REGION], [PROVINCIA] y [COMUNA]
 *Esto es necesario, porque estamos utilizando [COUNT(C.NRO_CLIENTE)], [GROUP BY] asegura que los datos se dividan en grupos según las tres columnas*
 
 ---
+# 6.
 
 ```
 ORDER BY 4 DESC;
