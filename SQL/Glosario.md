@@ -10,3 +10,6 @@
 [[NULL]]
 [[BETWEEN]]
 [[TO_DATE]]
+[[AND - OR]]
+[[ORDER BY]]
+[[LIMIT]]
