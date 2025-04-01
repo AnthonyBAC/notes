@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDO DuocUC - 3 SEMESTRE/E. Aprendizaje, Actividad 1.1 - Caso 1 - Explicado.md",
+                "file": "BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1/E. Aprendizaje, Actividad 1.1 - Caso 2 - Explicado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "E. Aprendizaje, Actividad 1.1 - Caso 1 - Explicado"
+              "title": "E. Aprendizaje, Actividad 1.1 - Caso 2 - Explicado"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 427.5
   },
   "right": {
     "id": "a1acbb0df9bedde5",
@@ -185,14 +185,16 @@
   },
   "active": "29ef644ac0d81ac1",
   "lastOpenFiles": [
+    "BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1/E. Aprendizaje, Actividad 1.3 - Ejemplo 1 - Explicado.md",
+    "BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1/E. Aprendizaje, Actividad 1.1 - Caso 2 - Explicado.md",
+    "BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1/E. Aprendizaje, Actividad 1.1 - Caso 1 - Explicado.md",
+    "BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1",
+    "SQL/Glosario.md",
     "SQL/Glosario - EJemplos/CREATE TABLE.md",
-    "BDO DuocUC - 3 SEMESTRE/E. Aprendizaje, Actividad 1.1 - Caso 1 - Explicado.md",
-    "BDO DuocUC - 3 SEMESTRE/E. Aprendizaje, Actividad 1.3 - Ejemplo 1 - Explicado.md",
     "SQL/Glosario - EJemplos/NULL.md",
     "SQL/Glosario - EJemplos/TO_DATE.md",
     "SQL/Glosario - EJemplos/UPDATE.md",
     "SQL/Glosario - EJemplos/WHERE.md",
-    "SQL/Glosario.md",
     "BDO DuocUC - 3 SEMESTRE/RECORDAR.md",
     "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/TRUNC.md",
     "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/SUBSTR.md",
