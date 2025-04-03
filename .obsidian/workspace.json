@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Glosario - EJemplos/JOIN.md",
+                "file": "SQL/Glosario - EJemplos/BETWEEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JOIN"
+              "title": "BETWEEN"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 201.5
   },
   "right": {
     "id": "a1acbb0df9bedde5",
@@ -170,10 +170,14 @@
   },
   "active": "29ef644ac0d81ac1",
   "lastOpenFiles": [
-    "SQL/Glosario - EJemplos/AND - OR.md",
-    "SQL/Glosario - EJemplos/JOIN.md",
-    "LIMIT.md",
+    "SQL/Glosario - EJemplos/AS.md",
+    "SQL/Glosario - EJemplos/LIKE.md",
+    "SQL/Glosario - EJemplos/DISTINCT.md",
+    "SQL/Glosario - EJemplos/CASE.md",
     "SQL/Glosario.md",
+    "SQL/Glosario - EJemplos/JOIN.md",
+    "SQL/Glosario - EJemplos/AND - OR.md",
+    "LIMIT.md",
     "SQL/Glosario - EJemplos/ORDER BY.md",
     "SQL/Glosario - EJemplos/SELECT.md",
     "SQL/Glosario - EJemplos/WHERE.md",
@@ -194,10 +198,6 @@
     "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/SUBSTR.md",
     "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/RIGHT JOIN.md",
     "BDO DuocUC - 3 SEMESTRE/BDO - 3.md",
-    "SQL/Glosario - EJemplos/%.md",
-    "SQL/Glosario - EJemplos/LIKE.md",
-    "SQL/Glosario - EJemplos/DISTINCT.md",
-    "SQL/Glosario - EJemplos/AS.md",
     "SQL/Glosario - EJemplos",
     "SQL",
     "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos",
