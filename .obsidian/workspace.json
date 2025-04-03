@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Glosario - EJemplos/JOIN.md",
+                "file": "SQL/Glosario - EJemplos/AND - OR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JOIN"
+              "title": "AND - OR"
             }
           }
         ]
@@ -168,14 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29ef644ac0d81ac1",
+  "active": "3b08566867f4f108",
   "lastOpenFiles": [
-    "LIMIT.md",
     "SQL/Glosario - EJemplos/JOIN.md",
+    "LIMIT.md",
     "SQL/Glosario.md",
     "SQL/Glosario - EJemplos/ORDER BY.md",
     "SQL/Glosario - EJemplos/SELECT.md",
-    "AND /AND - OR.md",
+    "SQL/Glosario - EJemplos/AND - OR.md",
     "SQL/Glosario - EJemplos/WHERE.md",
     "AND ",
     "SQL/Glosario - EJemplos/UPDATE.md",
