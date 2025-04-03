@@ -17,5 +17,5 @@ FROM CLIENTES C // **C ES EL ALIAS QUE TU LE DAS A LA TABLA**
 JOIN MOVIMIENTOS MI (MI ES UN ALIAS) ON C.NRO_CLIENTE = MI.NRO_CLIENTE
 ```
 
-En este caso.
+- En este caso.
 	- La columna coincidente es [NRO_CLIENTE] se encuentra en ambas tablas [MOVIMIENTOS] y [CLIENTES]
