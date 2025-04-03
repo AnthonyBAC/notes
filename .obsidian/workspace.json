@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIMIT.md",
+                "file": "SQL/Glosario - EJemplos/JOIN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LIMIT"
+              "title": "JOIN"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "29ef644ac0d81ac1",
   "lastOpenFiles": [
-    "SQL/Glosario.md",
     "LIMIT.md",
+    "SQL/Glosario - EJemplos/JOIN.md",
+    "SQL/Glosario.md",
     "SQL/Glosario - EJemplos/ORDER BY.md",
     "SQL/Glosario - EJemplos/SELECT.md",
     "AND /AND - OR.md",
@@ -197,7 +198,6 @@
     "SQL/Glosario - EJemplos/LIKE.md",
     "SQL/Glosario - EJemplos/DISTINCT.md",
     "SQL/Glosario - EJemplos/AS.md",
-    "SQL/Glosario - EJemplos/DELETE.md",
     "SQL/Glosario - EJemplos",
     "SQL",
     "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos",
