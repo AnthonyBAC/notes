@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOINS.md",
+                "file": "SQL/HAVING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JOINS"
+              "title": "HAVING"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29ef644ac0d81ac1",
+  "active": "3b08566867f4f108",
   "lastOpenFiles": [
+    "JOINS.md",
     "Pasted image 20250421180705.png",
     "Pasted image 20250421180702.png",
     "Pasted image 20250421180608.png",
@@ -177,8 +178,7 @@
     "Pasted image 20250421180250.png",
     "Pasted image 20250421180227.png",
     "SQL/Glosario.md",
-    "JOINS.md",
-    "HAVING.md",
+    "SQL/HAVING.md",
     "BDO DuocUC - 3 SEMESTRE/RECORDAR.md",
     "ROUND.md",
     "SQL/Glosario - EJemplos/AVG.md",
