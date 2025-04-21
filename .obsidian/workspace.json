@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Glosario - EJemplos/BETWEEN.md",
+                "file": "JOINS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BETWEEN"
+              "title": "JOINS"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 200
   },
   "right": {
     "id": "a1acbb0df9bedde5",
@@ -170,34 +170,39 @@
   },
   "active": "29ef644ac0d81ac1",
   "lastOpenFiles": [
-    "SQL/Glosario - EJemplos/AS.md",
-    "SQL/Glosario - EJemplos/LIKE.md",
-    "SQL/Glosario - EJemplos/DISTINCT.md",
-    "SQL/Glosario - EJemplos/CASE.md",
+    "Pasted image 20250421180705.png",
+    "Pasted image 20250421180702.png",
+    "Pasted image 20250421180608.png",
+    "Pasted image 20250421180428.png",
+    "Pasted image 20250421180250.png",
+    "Pasted image 20250421180227.png",
     "SQL/Glosario.md",
-    "SQL/Glosario - EJemplos/JOIN.md",
-    "SQL/Glosario - EJemplos/AND - OR.md",
-    "LIMIT.md",
+    "JOINS.md",
+    "HAVING.md",
+    "BDO DuocUC - 3 SEMESTRE/RECORDAR.md",
+    "ROUND.md",
+    "SQL/Glosario - EJemplos/AVG.md",
+    "SQL/Glosario - EJemplos/MIN - MAX.md",
+    "SQL/Glosario - EJemplos/WHERE.md",
     "SQL/Glosario - EJemplos/ORDER BY.md",
     "SQL/Glosario - EJemplos/SELECT.md",
-    "SQL/Glosario - EJemplos/WHERE.md",
-    "AND ",
+    "SQL/Glosario - EJemplos/TO_DATE.md",
     "SQL/Glosario - EJemplos/UPDATE.md",
+    "SQL/Glosario - EJemplos/SUM.md",
+    "SQL/Glosario - EJemplos/COUNT().md",
+    "SQL/Glosario - EJemplos/COUNT.md",
+    "SQL/Glosario - EJemplos/LIMIT.md",
+    "SQL/Glosario - EJemplos/CASE.md",
+    "SQL/Glosario - EJemplos/DISTINCT.md",
     "SQL/Glosario - EJemplos/BETWEEN.md",
+    "SQL/Glosario - EJemplos/AS.md",
+    "SQL/Glosario - EJemplos/LIKE.md",
+    "SQL/Glosario - EJemplos/JOIN.md",
+    "SQL/Glosario - EJemplos/AND - OR.md",
+    "AND ",
     "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/LEFT JOIN.md",
     "BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1/E. Aprendizaje, Actividad 1.1 - Caso 1 - Explicado.md",
-    "BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1/E. Aprendizaje, Actividad 1.1 - Caso 2 - Explicado.md",
-    "Untitled.md",
-    "BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1/E. Aprendizaje, Actividad 1.3 - Ejemplo 1 - Explicado.md",
     "BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1",
-    "SQL/Glosario - EJemplos/CREATE TABLE.md",
-    "SQL/Glosario - EJemplos/NULL.md",
-    "SQL/Glosario - EJemplos/TO_DATE.md",
-    "BDO DuocUC - 3 SEMESTRE/RECORDAR.md",
-    "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/TRUNC.md",
-    "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/SUBSTR.md",
-    "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/RIGHT JOIN.md",
-    "BDO DuocUC - 3 SEMESTRE/BDO - 3.md",
     "SQL/Glosario - EJemplos",
     "SQL",
     "BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos",
