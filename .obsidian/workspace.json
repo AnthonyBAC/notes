@@ -35,12 +35,14 @@
             "id": "b7c10521ac619b9f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Z.- Imagenes/Pasted image 20250421180428.png"
+                "file": "1.-SQL/Glosario - EJemplos/UNION.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250421180428"
+              "icon": "lucide-file",
+              "title": "UNION"
             }
           }
         ],
@@ -193,9 +195,13 @@
   },
   "active": "3b08566867f4f108",
   "lastOpenFiles": [
+    "1.-SQL/Glosario - EJemplos/CROSS JOIN.md",
+    "1.-SQL/Glosario.md",
+    "1.-SQL/Glosario - EJemplos/UNION.md",
+    "1.-SQL/Glosario - EJemplos/JOINS.md",
+    "Z.- Imagenes/Pasted image 20250421180428.png",
     "git.md",
     "1.-SQL/Glosario - EJemplos/HAVING.md",
-    "1.-SQL/Glosario - EJemplos/JOINS.md",
     "1.-SQL/Glosario - EJemplos/ROUND.md",
     "Z.- Imagenes/Pasted image 20250421180250.png",
     "Z.- Imagenes/Pasted image 20250421180227.png",
@@ -203,8 +209,6 @@
     "Z.- Imagenes/Pasted image 20250421180702.png",
     "Z.- Imagenes/Pasted image 20250421180705.png",
     "Z.- Imagenes",
-    "Z.- Imagenes/Pasted image 20250421180428.png",
-    "1.-SQL/Glosario.md",
     "3.-BDO DuocUC - 3 SEMESTRE/RECORDAR.md",
     "1.-SQL/Glosario - EJemplos/AVG.md",
     "1.-SQL/Glosario - EJemplos/MIN - MAX.md",
@@ -225,8 +229,6 @@
     "1.-SQL/Glosario - EJemplos/JOIN.md",
     "1.-SQL/Glosario - EJemplos/AND - OR.md",
     "AND ",
-    "3.-BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos/LEFT JOIN.md",
-    "3.-BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1/E. Aprendizaje, Actividad 1.1 - Caso 1 - Explicado.md",
     "3.-BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1",
     "1.-SQL/Glosario - EJemplos",
     "1.-SQL",

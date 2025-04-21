@@ -22,3 +22,5 @@
 [[ROUND]]
 [[HAVING]]
 [[JOINS]]
+[[UNION]]
+[[CROSS JOIN]]
