@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.-Python/Note 1.md",
+                "file": "Z.- Imagenes/Conditional Statements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note 1"
+              "title": "Conditional Statements"
             }
           }
         ]
@@ -168,15 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29ef644ac0d81ac1",
+  "active": "3b08566867f4f108",
   "lastOpenFiles": [
-    "2.-Python/Glosario/Type of variable.md",
+    "Pasted image 20250428171154.png",
     "2.-Python/Note 1.md",
+    "Z.- Imagenes/Conditional Statements.md",
+    "2.-Python/Glosario.md",
+    "1.-SQL/Glosario.md",
+    "2.-Python/Glosario/Type of variable.md",
     "2.-Python/Glosario/Arithmetic operators.md",
     "2.-Python/Glosario",
     "1.-SQL/Note 1.md",
     "1.-SQL/Note 2 - Commands.md",
-    "1.-SQL/Glosario.md",
     "Z.- Imagenes/Pasted image 20250421180705.png",
     "1.-SQL/Glosario - EJemplos/%.md",
     "2.-Python",
@@ -203,9 +206,6 @@
     "1.-SQL/Glosario - EJemplos/WHERE.md",
     "1.-SQL/Glosario - EJemplos/ORDER BY.md",
     "1.-SQL/Glosario - EJemplos/SELECT.md",
-    "1.-SQL/Glosario - EJemplos/TO_DATE.md",
-    "1.-SQL/Glosario - EJemplos/SUM.md",
-    "1.-SQL/Glosario - EJemplos/COUNT().md",
     "AND ",
     "Ext.2-BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1",
     "1.-SQL/Glosario - EJemplos",
