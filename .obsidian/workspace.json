@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z.- Imagenes/Conditional Statements.md",
+                "file": "len.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditional Statements"
+              "title": "len"
             }
           }
         ]
@@ -168,13 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b08566867f4f108",
+  "active": "29ef644ac0d81ac1",
   "lastOpenFiles": [
+    "2.-Python/Glosario.md",
+    "len.md",
+    "1.-SQL/Glosario.md",
+    "Z.- Imagenes/Conditional Statements.md",
     "Pasted image 20250428171154.png",
     "2.-Python/Note 1.md",
-    "Z.- Imagenes/Conditional Statements.md",
-    "2.-Python/Glosario.md",
-    "1.-SQL/Glosario.md",
     "2.-Python/Glosario/Type of variable.md",
     "2.-Python/Glosario/Arithmetic operators.md",
     "2.-Python/Glosario",
