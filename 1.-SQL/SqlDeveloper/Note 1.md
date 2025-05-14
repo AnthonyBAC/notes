@@ -1,21 +1,21 @@
 1. Create user
-	```sql
-	CREATE USER user_name IDENTIFIED BY password
-	DEFAULT TABLESPACE DATA
-	TEMPORARY TABLESPACE TEMP
-	QUOTA UNLIMITED ON DATA;
-	GRANT CONNECT, RESOURCE to user_name; --Connection privilege
-	```
-
-2. Create role
-	```sql
-	CREATE ROLE ROL_EXAMPLE
-```
-
-3. Grant privilege
-	```sql
-	GRANT SELECT, INSERT, UPDATE, DELETE ON table_example TO USER;
-```
+   ```sql
+   CREATE USER USER_NAME IDENTIFIED BY PASSWORD
+   DEFAULT TABLESPACE DATA
+   TEMPORARY TABLESPACE TEMP
+   QUOTA UNLIMITED ON DATA;
+   GRANT CONNECT, RESOURCE TO USER_NAME--Connection privilege
+   ```
+   
+2. Create Role
+   ```sql
+   CREATE ROLE ROL_EXAMPLE
+   ```
+   
+3. Grant Privileges
+   ```sql
+   GRANT SELECT, INSERT, UPDATE, DELETE ON TABLE_NAME TO USER_NAME
+   ```
 
 
 
