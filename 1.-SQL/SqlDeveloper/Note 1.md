@@ -15,9 +15,7 @@
 3. Grant privilege
 	```sql
 	GRANT SELECT, INSERT, UPDATE, DELETE ON table_example TO USER;
-
 ```
-
 
 
 
