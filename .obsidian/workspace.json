@@ -11,14 +11,12 @@
             "id": "29ef644ac0d81ac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1.-SQL/SqlDeveloper/Note 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Z.- Imagenes/Pasted image 20250428171154.png"
               },
-              "icon": "lucide-file",
-              "title": "Note 1"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250428171154"
             }
           }
         ]
@@ -168,20 +166,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29ef644ac0d81ac1",
+  "active": "3b08566867f4f108",
   "lastOpenFiles": [
-    "Untitled.md",
-    "1.-SQL/SqlDeveloper/Note 1.md",
+    "4.-Git/git.md",
+    "4.-Git",
+    "2.-Python/Glosario/len.md",
+    "Z.- Imagenes/Pasted image 20250428171154.png",
     "3.-Javascript/Note 1.md",
+    "Ext.1-TheOdinProject/FoundationCourse1.md",
+    "1.-SQL/SqlDeveloper/Note 1.md",
+    "Untitled.md",
     "1.-SQL/SqlDeveloper",
     "2.-Python/Note 1.md",
-    "git.md",
     "3.-Javascript",
-    "len.md",
     "2.-Python/Glosario.md",
     "1.-SQL/Glosario.md",
     "Z.- Imagenes/Conditional Statements.md",
-    "Pasted image 20250428171154.png",
     "2.-Python/Glosario/Type of variable.md",
     "2.-Python/Glosario/Arithmetic operators.md",
     "2.-Python/Glosario",
@@ -206,12 +206,9 @@
     "Z.- Imagenes/Pasted image 20250421180608.png",
     "Z.- Imagenes",
     "Ext.2-BDO DuocUC - 3 SEMESTRE/RECORDAR.md",
-    "1.-SQL/Glosario - EJemplos/AVG.md",
-    "1.-SQL/Glosario - EJemplos/MIN - MAX.md",
     "AND ",
     "Ext.2-BDO DuocUC - 3 SEMESTRE/ACTIVIDAD 1",
     "1.-SQL/Glosario - EJemplos",
-    "1.-SQL",
-    "Ext.2-BDO DuocUC - 3 SEMESTRE/Conceptos - Ejemplos"
+    "1.-SQL"
   ]
 }
